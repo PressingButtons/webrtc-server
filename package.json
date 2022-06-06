@@ -1,0 +1,26 @@
+{
+  "name": "webrtc-server",
+  "version": "1.0.0",
+  "description": "webrtc server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PressingButtons/webrtc-server.git"
+  },
+  "keywords": [
+    "webrtc",
+    "multiplayer"
+  ],
+  "author": "Steven Boyd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PressingButtons/webrtc-server/issues"
+  },
+  "homepage": "https://github.com/PressingButtons/webrtc-server#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
